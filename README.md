@@ -1,6 +1,5 @@
 # AluraBook
 
-> Site de livros - ```completo```
+Site de livros - ```completo```
 
-Feito com: **Html** e **CSS**
-```HTML E CSS```
+>Feito com: **Html** e **CSS**
